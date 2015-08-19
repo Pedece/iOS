@@ -1,0 +1,295 @@
+1.	(TEMAS 3 y 4)Las arquitecturas de agentes se descomponen en tres tipos principales que dependen  del sistema de razonamiento que utilicen, estas son:
+a.  Deliberativas, cognitivas, híbridas.
+b.	Cognitivas, reactivas, híbridas
+c.	Deliberativas, reactivas, híbridas.
+d.	
+2.	Las arquitecturas que siguen un modelo de razonamiento simbólico son:
+a.	Deliberativas.
+b.	Reactivas.
+c.	Cognitivas.
+d.	Ninguna de las anteriores.
+3.	Las reglas de condición-acción se utilizan en las arquitecturas:
+a.	Deliberativas
+b.	Reactivas.
+c.	Ambas.
+d.	Ninguna de ellas.
+4.	En un modelo deliberativo, las actitudes mentales son:
+a.	Intenciones, creencias, acciones.
+b.	Intenciones, creencias, deseos.
+c.	Intenciones, deseos, acciones.
+d.
+5.	El estado del entorno se representa mediante:
+a.	Las visualizaciones.
+b.	Los deseos.
+c.	Las acciones.
+d.	Las creencias.
+6.	Las metas finales de un agente en el modelo deliberativo son:
+a.	Las creencias.
+b.	Los deseos.
+c.	Las intenciones.
+d.	Las acciones.
+7.	Un agente que mantiene sus intenciones hasta que se sabes que las ha alcanzado, rechazando las creencias o deseos que contraigan sus compromisos.
+a.	Agente ciego.
+b.	Agente firme.
+c.	Agente imparcial
+d.
+8.	Las siglas CBR se refieren a:
+a.	Razonamiento básico de casualidades.
+b.	Razonamiento basado en casos.
+c.	Razonamiento basado en causalidades.
+d.	Razonamiento básico de casos.
+9.	El ciclo de vida de un CBR es:
+a.	Recuperación, readaptación, revisión, retención.
+b.	Recuperación, reorganización, revisión, retención.
+c.	Recuperación,  reutilización, replanificación, retención.
+d.	Recuperación, reutilización, revisión, retención.
+10.	La base de conocimiento de un CBR permite:
+a.	Aprender de la experiencia.
+b.	Replanificar.
+c.	Reorganizar.
+d.	Razonar.
+11.	¿Para qué se utilizan los lenguajes ACL?
+a.	Para la colaboración entre agentes.
+b.	Para la comunicación entre agentes.
+c.	Para la coordinación entre agentes.
+d.
+12.	La mayor ventaja de una arquitectura de pizarra es la centralización.
+a.	Verdadero.
+b.	Falso.
+c.
+d.
+13.	El lenguaje KIF:
+a.	Permite la representación de conocimiento.
+b.	Se basa en lógica de primer orden.
+c.	Incluye especificación para sintaxis y semántica.
+d.	Todas son correctas.
+14.	¿Cómo se denomina las primitivas del lenguaje que indican acciones u operaciones pueden llevar a cabo los agentes cuando se comunican?
+a.	Palabras reservadas.
+b.	Tags.
+c.	Performativas.
+d.	Palabras claves.
+15.	En FIPA-ACL el atributo :reply-by
+a.	Indica al agente al que se debe enviar la respuesta.
+b.	Contiene la etiqueta que se espera en la respuesta.
+c.	Indica el tiempo en el que se requiere una respuesta.
+d.
+16.	¿Cómo se denomina al protocolo FIPA que permite que un agente le pida a otro que ejecute alguna acción y que el agente receptor ejecute la acción o responde, de alguna manera, que no puede?
+a.	FIPA-INFORM.
+b.	FIPA-REQUEST.
+c.	FIPA-QUERY-REF.
+d.
+17.	¿Cuál de estos es un protocolo de negociación?
+a.	FIPA-NEGOCIATION.
+b.	FIPA-NEGOCIATION-NET.
+c.	FIPA-CONTRACT-NET.
+d.	FIPA-CONTRAC.
+18.	¿Qué ejecutiva se utiliza en el FIPA-REQUEST cuando el agente receptor del REQUEST ha realizado la acción correctamente?
+a.	Agree.
+b.	Correct.
+c.	Propose.
+d.	Inform.
+19.	En un mensaje FIPA-ACL en contenido de atributo :content debe estar en:
+a.	KIF.
+b.	KQML.
+c.	Lógica de primer orden.
+d.	Es indiferente.
+20.	¿Qué agente de JADE se encarga de gestionar los servicios proporcionados por los agentes?
+a.	AMS.
+b.	DF.
+c.	SF.
+d.	JF.
+21.	Una clase que herede de Behaviour siempre debe implementar el método:
+a.	OnEnd().
+b.	onFinal().
+c.	action().
+d.	setup().
+22.	Los estados de un agente en Jade son:
+a.	Iniciado, activo, suspendido, esperando, eliminado, tránsito.
+b.	Iniciado, activo, bloqueado, esperando, eliminador, tránsito.
+c.	Iniciado, activo, suspendido, esperando, pausado, tránsito.
+d.	Iniciado, activo, suspendido, esperando, eliminado, movilizado.
+1.	(TEMAS 5,6 y 7)En la función organizacional se tiene en cuenta todo lo relacionado con la gestión de la organización, se incluye dentro de:
+a.	Análisis organizacional.
+b.	Análisis estructural.
+c.	Análisis funcional.
+d.	Análisis normativo.
+2.	El análisis que tiene en cuenta las interacciones entre agentes su relación y evolución temporal se denomina:
+a.	Estructural.
+b.	Organizacional.
+c.	Funcional.
+d.	De parámetros.
+3.	La relación de conflicto entre agentes de una organización se tiene en cuenta dentro del análisis:
+a.	Estructural.
+b.	Organizacional.
+c.	Funcional.
+d.	De parámetros.
+4.	Una organización donde cada agente tiene varias habilidades y varios agentes las poseen se denomina:
+a.	Organización redundante y especializada.
+b.	Organización redundante y general.
+c.	Organización no redundante y general.
+d.	Organización no redundante e hiperespecializada.
+5.	¿Una organización de agente en un sistema que se caracteriza por su baja dinamicidad?
+a.	Verdadero.
+b.	Falso.
+c.	
+d.	
+6.	La facilitación social en una organización está relacionada con:
+a.	Las intenciones.
+b.	Los deseos.
+c.	Las acciones.
+d.	Las creencias.
+7.	La adaptación en una organización de agentes depende en gran medida de:
+a.	El método de razonamiento.
+b.	La base de conocimiento.
+c.	La capacidad de aprendizaje.
+d.	La reorganización.
+8.	La cooperación entre agentes depende de:
+a.	La negociación y la coordinación.
+b.	La colaboración y la coordinación.
+c.	La reorganización y la coordinación.
+d.	La cooperación y la coordinación.
+9.	La coordinación se refiere principalmente al intercambio de mensajes y el control del espacio de interacción.
+a.	Verdadero.
+b.	Falso.
+c.	
+d.	
+10.	En la distribución de tareas, son conjuntivas aquellas que:
+a.	Para llevar a cabo la tarea A puede ejecutarse la subtarea A1 o la subtarea A2.
+b.	Para llevar a cabo la tarea A debe ejecutarse la subtarea A1 y la subtarea A2.
+c.	Para llevar a cabo la tarea A debe ejecutarse la subtarea A1 y/o la subtarea A2.
+d.	
+11.	¿Cuáles de esos roles facilitan el proceso de coordinar la distribución de tareas?
+a.	Planner y trader.
+b.	Coordinator y bróker.
+c.	Broker y planner.
+d.	Broker y trader.
+12.	El posible colapso del agente trader debido a la cantidad de mensajes es propio de:
+a.	Una distribución de tareas centralizada con estructura jerárquica.
+b.	Una distribución de tareas centralizada con estructura igualitaria.
+c.	En ambas.
+d.	
+13.	El problema de la inicialización y la actuación son propios:
+a.	De una distribución de tareas centralizada con estructura jerárquica.
+b.	De una distribución de tareas centralizada con estructura igualitaria.
+c.	De una distribución de tareas distribuida basada en el modelo de agentes conocidos.
+d.	
+14.	En la distribución de tareas por delegación:
+a.	Solo puede asignarse una tarea a un agente que no se conoce.
+b.	Los agentes están todos conectados con todos.
+c.	Solo puede asignarse una tarea a un agente que se conoce.
+d.	Los agentes no están todos conectados con todos.
+15.	¿Qué aspecto de los sistemas multi-agentes permite a un agente obtener información y resultados de otros agentes que únicamente esos otros agentes pueden proporcionarse?
+a.	Coordinación.
+b.	Cooperación.
+c.	Colaboración.
+d.	Negociación.
+16.	Dentro de las relaciones de coordinación, las relaciones positivas se establecen entre las acciones que no deben ejecutarse simultáneamente:
+a.	Verdadero.
+b.	Falso.
+c.	
+d.	
+17.	 Las relaciones negativas de coordinación pueden ser:
+a.	Igualitarias, incluidas, favorecedoras.
+b.	Igualitarias, incluidas, facilitadoras.
+c.	Igualitarias, exclusivas, favorecedoras.
+d.	Ninguna de ellas.
+18.	Es necesario un agente planificador para:
+a.	La coordinación global.
+b.	La coordinación individual.
+c.	Ambas.
+d.	
+19.	¿La negociación puede resolver problemas en la comunicación entre agentes?
+a.	Falso.
+b.	Verdadero.
+c.	
+d.	
+20.	En una negociación el protocolo de interacción influye en:
+a.	La toma de decisiones.
+b.	EL lenguaje de negociación.
+c.	El proceso de negociación.
+d.	En todos.
+(TEMA 1-Made in Alex)1.-Cual es la propiedad que hace actuar a un agente sin intervención humana directa o de otros agentes:
+a)	Sociabilidad.
+b)	Autonomia.
+c)	Movilidad.
+d)	Racionalidad.
+2.- Cual es la propiedad que hace que un agente interacione con otros, utilizando como medio algún lenguaje de comunicación entre agentes:
+a)	Sociabilidad.
+b)	Autonomia.
+c)	Reactividad.
+d)	Racionalidad.
+3.-Cuales son los tipos de agentes:
+a)	Reactivos, Pro-Activos, Hibridos.
+b)	Reactivos, Pro-Reactivos, Hibridos.
+c)	Activos, Pro-Activos, Hibridos.
+d)	Reactivos, Pro-Activos, Pro-Hibridos.
+4.-Cuales son los conceptos clave en la interacion entre los diferentes agentes:
+a)	Comunicación, coordinación, conexion, negociacion.
+b)	Comunicación, coordinación, cooperación, conexion.
+c)	Comunicación, analisis, cooperación, negociacion.
+d)	Comunicación, coordinación, cooperación, negociación.
+1.- (Posibles preguntas fiabilidad 80%)Un agente que interactua con otro agente usando un lenguaje entre ellos:
+a)	Sociable.
+b)	Autónomo.
+c)	Móvil.
+d)	Racional.
+2.- Propiedad de pro-actividad de un agente relacionado con:
+a)	Capacidad de actuar sin intervención humana.
+b)	Capacidad de reaccionar ante un estímulo en un tiempo preestablecido.
+c)	Capacidad emprendedora y de iniciativa.
+d)	Capacidad de interaccionar con otros agentes.
+3.- ¿Racionalidad de un agente?
+a)	Un agente no comunica información falsa intencionadamente.
+b)	Un agente tiene objetivos específicos y siempre los lleva a cabo.
+c)	Un agente se adapta a cambios en entornos dinámicos.
+d)	Un agente se organiza dentro de las sociedades.
+4.- Interacciones en un sistema multiagente, conceptos claves:
+a)	Comunicación, Autonomía, Negociación y Coordinación.
+b)	Comunicación,  Coordinación, Autonomía, Racionalidad.
+c)	Comunicación, Coordinación, Negociación y Cooperación.
+d)	Ninguna es correcta.
+5.- La cooperación en un SMA ayuda a:
+a)	Intercambiar información.
+b)	Alcanzar un objetivo que un agente no podría alcanzar por sí solo.
+c)	Define una estrategia para alcanzar dicho objetivo.
+d)	Alcanzar decisiones mediante comunicación explicita.
+6.- Sistema multiagente abierto:
+a)	Su estructura es capaz de cambiar dinámicamente.
+b)	Sus componentes no se conocen a priori.
+c)	Cambian en el tiempo y puede ser heterogéneos.
+d)	Todas son correctas.
+7.- En una sociedad artificial las entidades se rigen por:
+a)	Reglas e intenciones.
+b)	Comunicación y coordinación.
+c)	Apertura, flexibilidad, estabilidad y confianza.
+d)	Ninguna es correcta.
+8.- Las sociedades abiertas:
+a)	Apoyan la estabilidad y confianza.
+b)	Carecen de estabilidad y confianza.
+c)	Apoyan la flexibilidad y confianza.
+d)	Carecen de flexibilidad y apertura.
+9.- En las sociedades semiabierta:
+a)	Ningún agente externo puede acceder.
+b)	El acceso no está regulado.
+c)	El acceso está regulado.
+d)	Hay un representante del agente externo.
+10.-  Un agente que utiliza las reglas de condición y acción para establecer la conexión entre acciones y percepciones:
+a)	Agente de reflejo simple.
+b)	Agente  reflejo con estado interno.
+c)	Agente basados en utilidad.
+d)	Agentes móviles.
+11.- Métodos de razonamiento:
+a)	Estáticos y dinámicos.
+b)	Deliberativos y reactivos.
+c)	Colaborativos e interfaz.
+d)	De aprendizaje e inteligentes.
+12.- Sobre la planificación no lineal:
+a)	Existe una relación lineal entre la forma de resolver los Subobjetivos y su ejecución.
+b)	Se introducen técnicas como la teoría de grafos.
+c)	Genera planes a partir de unas especificaciones iniciales.
+d)	Ninguna es correcta.
+13.- Según nuestro colega Nwana un agente inteligente es la unión de:
+a)	Cooperación, aprendizaje y autonomía.
+b)	Cooperación, seguridad y autonomía.
+c)	Cooperación, aprendizaje y racionalidad.
+d)	Cooperación, aprendizaje e interactivo.
