@@ -38,7 +38,7 @@
         [_botonRespuesta2 setBackgroundColor:[UIColor redColor]];
         [_botonRespuesta3 setBackgroundColor:[UIColor redColor]];
         
-        NSLog(@"Respuesta Correcta!");
+        NSLog(@"Respuesta Correcta A!");
     }
     
     
@@ -53,7 +53,7 @@
         [_botonRespuesta0 setBackgroundColor:[UIColor greenColor]];
         [_botonRespuesta2 setBackgroundColor:[UIColor redColor]];
         [_botonRespuesta3 setBackgroundColor:[UIColor redColor]];
-        NSLog(@"Respuesta Correcta!");
+        NSLog(@"Respuesta Correcta B!");
     }
 }
 
@@ -66,7 +66,7 @@
         [_botonRespuesta0 setBackgroundColor:[UIColor redColor]];
         [_botonRespuesta1 setBackgroundColor:[UIColor greenColor]];
         [_botonRespuesta3 setBackgroundColor:[UIColor redColor]];
-        NSLog(@"Respuesta Correcta!");
+        NSLog(@"Respuesta Correcta C!");
     }
 }
 
@@ -79,7 +79,7 @@
         [_botonRespuesta0 setBackgroundColor:[UIColor redColor]];
         [_botonRespuesta1 setBackgroundColor:[UIColor greenColor]];
         [_botonRespuesta2 setBackgroundColor:[UIColor redColor]];
-        NSLog(@"Respuesta Correcta!");
+        NSLog(@"Respuesta Correcta D!");
     }
     
 }
